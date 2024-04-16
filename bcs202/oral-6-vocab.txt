@@ -1,0 +1,34 @@
+recipe - recept
+
+ingredient - sastojak
+apricot - kajsija
+fig - smokva
+flour - brašno
+plum - šljiva
+honey - med
+walnut(s) - orah(orasi)
+cinnamon - cimet
+butter - maslac
+eggs - jaje
+vanilla - vanilija
+yeast - kvasac
+mljeko
+salt - sol
+dough - tijesto
+
+
+to knead - mijesiti (mijesim)
+to rest - odmarati se (odmaram)
+to divide up - podijeliti (podijelim)
+to ball up - napraviti u kuglice
+to leaven - kvasiti (kvasim)
+
+
+
+
+filling - nadjev
+to heat up - zagrijati (zagrijam)
+to add in - dodati (dodam)
+to mix up - pomiješati (pomiješam)
+
+

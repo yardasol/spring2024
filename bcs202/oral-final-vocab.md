@@ -13,6 +13,7 @@ osmica - figure eight knot, figure eight descender (kruška)
 penjač - climber
 barrelov čvor - fishermans knot
 bulin, pašnjak - bowline knot
+osiguravač - belayer
 osiguravajući čvor - backup knot
 penjačka kaciga - climbing helmet
 gamaše, gležnjaci - gaiters
@@ -25,3 +26,7 @@ vreća za spavanje - sleeping bag
 vezati (vežem) - to tie
 padati (padam) - to fall
 penjati se (penjem se) - to climb
+sigurnost - saftey
+spojiti (spojim) - to connect
+provjeriti (provjerim) - to check
+
